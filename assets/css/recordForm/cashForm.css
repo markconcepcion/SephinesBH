@@ -1,0 +1,54 @@
+	div.modal-be-like{
+		margin: 140px 200px 0px 470px;
+		width: 400px;
+	}
+
+	div.inside-mi-modal{
+		text-align: center;
+		background-color: lightgray;
+		border: 2px solid black;
+	}
+
+	div.total_price{
+		height: 30px;
+		background-color: rgb(255, 104, 143);
+		margin-bottom: 10px;
+	}
+
+	h2{
+		color: black;
+		font-size: 17px;	
+		margin-left: 5px;
+		font-family: monospace;
+		padding-top: 7px;
+	}
+
+	input{
+		text-indent: 10px;
+		font-size: 17px;
+		height: 40px;
+		width: 500px;
+	}
+
+	ul.but, li.but{
+		display: inline-flex;
+		height: 40px;
+	}
+
+	h3.click{
+		margin-top: 8.5px;
+		color: rgb(255, 104, 143);
+	}
+
+	h3.click:hover{
+		cursor: pointer;
+	}
+
+	h2.close{
+		background-color: rgb(255, 104, 143);
+		border: 1px solid gray;
+		width: 55px; 
+		height: 31px;
+		margin: 0px 1px 110px 5px;
+		padding: 7px 0px 0px 7px;
+	}
